@@ -10,6 +10,11 @@
 Этот репозиторий содержит **чистовые (showcase) проекты**, отобранные из рабочих репозиториев.  
 Проекты демонстрируют архитектуру, чистый код, тестирование и документацию.
 
+![Portfolio](https://img.shields.io/badge/Type-Project_Showcase-blueviolet)
+![Python](https://img.shields.io/badge/Python-Django-blue)
+![Java](https://img.shields.io/badge/Java-Spring_Boot-red)
+![Data](https://img.shields.io/badge/Data-ETL%20%7C%20Pandas-teal)
+![CI](https://img.shields.io/badge/CI-GitHub_Actions-black)
 ---
 
 ## 🧠 Обо мне
