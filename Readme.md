@@ -139,8 +139,8 @@ Backend интернет-магазина
 
 ## 📫 Контакты
 - GitHub: https://github.com/ScherbAlex
-- Telegram: **@username**
-- Email: **your@email.com**
+- Telegram: **@Alex_181173**
+- Email: **alexshcherbyna1173@gmail.com**
 
 ---
 
@@ -274,5 +274,5 @@ Job market data collection tool
 
 ## 📫 Contact
 - GitHub: https://github.com/ScherbAlex
-- Telegram: **@username**
-- Email: **your@email.com**
+- Telegram: **@Alex_181173**
+- Email: **alexshcherbyna1173@gmail.com**
