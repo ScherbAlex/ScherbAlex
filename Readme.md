@@ -8,22 +8,23 @@
 # ScherbAlex — витрина проектов 🚀
 
 Этот репозиторий содержит **чистовые (showcase) проекты**, отобранные из рабочих репозиториев.  
-Проекты демонстрируют архитектуру, чистый код, тестирование и документацию.
+Проекты демонстрируют **архитектуру, чистый код, тестирование и production-подход**.
 
 ![Portfolio](https://img.shields.io/badge/Type-Project_Showcase-blueviolet)
 ![Python](https://img.shields.io/badge/Python-Django-blue)
-![Java](https://img.shields.io/badge/Java-Spring_Boot-red)
 ![Data](https://img.shields.io/badge/Data-ETL%20%7C%20Pandas-teal)
 ![CI](https://img.shields.io/badge/CI-GitHub_Actions-black)
+
 ---
 
 ## 🧠 Обо мне
-**Alex Shcherbyna — Full-stack разработчик**
+**Alex Shcherbyna — Backend / Full-stack разработчик**
 
 Основные направления:
 - Backend-сервисы и REST API
-- Обработка данных и автоматизация
-- Чистая архитектура и тестирование
+- Финансовая и бизнес-логика
+- Обработка и аналитика данных
+- Тестирование и чистая архитектура
 - CI/CD и воспроизводимые окружения
 
 ---
@@ -32,18 +33,17 @@
 
 ### Backend
 - Python (Django, DRF, Celery, Redis)
-- Java (Spring Boot, REST)
-- Авторизация: JWT, Token-based
+- REST API, JWT / Token-auth
 
 ### Данные и БД
 - PostgreSQL
-- Pandas, CSV / JSON / XLSX
+- Pandas
+- CSV / JSON / XLSX
 - ETL-пайплайны и парсинг
 
 ### Frontend
 - HTML, CSS, JavaScript
 - Bootstrap
-- Адаптивная верстка
 
 ### DevOps
 - Docker / Docker Compose
@@ -67,9 +67,9 @@
 Backend-сервис трекинга привычек  
 **Стек:** Django, DRF, Celery, Redis  
 - Управление привычками
-- Уведомления в Telegram
 - Фоновые задачи
-- Токен-авторизация
+- Уведомления
+- Token-авторизация
 
 ---
 
@@ -79,11 +79,30 @@ Backend-сервис трекинга привычек
 - Получатели и сообщения
 - Планирование рассылок
 - Отчёты и логирование
+- Production-настройки
 
 ---
 
-### 🏦 My-Bank
-Модуль обработки финансовых транзакций  
+### 🛒 ECommerceProject
+Backend интернет-магазина  
+**Стек:** Django, PostgreSQL  
+- Каталог товаров и категорий
+- Валидация данных
+- Админ-панель
+
+---
+
+### 🏦 ProjectBank
+Аналитика банковских операций  
+**Стек:** Python, Pandas  
+- Агрегация транзакций
+- Финансовые отчёты
+- Чистая бизнес-логика
+
+---
+
+### 🏦 MyBank
+Модуль обработки финансовых данных  
 **Стек:** Python, Pandas  
 - Импорт CSV / JSON / XLSX
 - Конвертация валют
@@ -92,10 +111,18 @@ Backend-сервис трекинга привычек
 
 ---
 
-### 📊 HH_data
-Инструмент сбора данных рынка вакансий (hh.ru)  
+### 📊 HH_Vacancies
+Аналитика вакансий hh.ru  
+**Стек:** Python, Pandas  
+- Обработка данных вакансий
+- Фильтрация и аналитика рынка
+
+---
+
+### 📈 HH_Data
+Сбор и хранение данных рынка вакансий  
 **Стек:** Python, PostgreSQL  
-- Парсинг данных
+- Парсинг hh.ru
 - Хранение в БД
 - Экспорт CSV / JSON
 
@@ -103,32 +130,36 @@ Backend-сервис трекинга привычек
 
 ## 📌 Принципы разработки
 - Читаемый и поддерживаемый код
+- Явная бизнес-логика
 - Тестируемость
 - Документация и примеры
-- Автоматизация рутины
 - Production-подход
 
 ---
 
 ## 📫 Контакты
+- GitHub: https://github.com/ScherbAlex
 - Telegram: **@username**
 - Email: **your@email.com**
+
+---
 
 <a id="en"></a>
 
 # ScherbAlex — Project Showcase 🚀
 
 This repository contains **production-ready showcase projects** selected from my working repositories.  
-Each project demonstrates architecture, clean code, testing, and documentation.
+Each project demonstrates **architecture, clean code, testing, and production practices**.
 
 ---
 
 ## 🧠 About me
-**Alex Shcherbyna — Full-stack developer**
+**Alex Shcherbyna — Backend / Full-stack developer**
 
 Main focus areas:
-- Backend systems & REST APIs
-- Data processing & automation
+- Backend services & REST APIs
+- Business & financial logic
+- Data processing and analytics
 - Clean architecture & testing
 - CI/CD and reproducible environments
 
@@ -138,18 +169,17 @@ Main focus areas:
 
 ### Backend
 - Python (Django, DRF, Celery, Redis)
-- Java (Spring Boot, REST)
-- Authentication: JWT, Token-based
+- REST API, JWT / Token authentication
 
 ### Data & Databases
 - PostgreSQL
-- Pandas, CSV / JSON / XLSX
-- ETL pipelines & parsers
+- Pandas
+- CSV / JSON / XLSX
+- ETL pipelines & parsing
 
 ### Frontend
 - HTML, CSS, JavaScript
 - Bootstrap
-- Responsive UI
 
 ### DevOps
 - Docker / Docker Compose
@@ -173,8 +203,8 @@ Online education platform
 Habit tracking backend service  
 **Stack:** Django, DRF, Celery, Redis  
 - Habit management
-- Telegram notifications
 - Background tasks
+- Notifications
 - Token authentication
 
 ---
@@ -184,12 +214,30 @@ Email campaign management system
 **Stack:** Django, PostgreSQL, Redis  
 - Recipients & messages
 - Scheduled mailings
-- Reports & logs
+- Reports & logging
 
 ---
 
-### 🏦 My-Bank
-Financial transactions processing module  
+### 🛒 ECommerceProject
+E-commerce backend system  
+**Stack:** Django, PostgreSQL  
+- Products & categories
+- Data validation
+- Admin panel
+
+---
+
+### 🏦 ProjectBank
+Bank transactions analytics tool  
+**Stack:** Python, Pandas  
+- Transaction aggregation
+- Financial reports
+- Clean business logic
+
+---
+
+### 🏦 MyBank
+Financial data processing module  
 **Stack:** Python, Pandas  
 - CSV / JSON / XLSX import
 - Currency conversion
@@ -198,24 +246,33 @@ Financial transactions processing module
 
 ---
 
-### 📊 HH_data
-Job market data collection tool (hh.ru)  
+### 📊 HH_Vacancies
+Vacancy analytics service (hh.ru)  
+**Stack:** Python, Pandas  
+- Vacancy data processing
+- Market analytics
+
+---
+
+### 📈 HH_Data
+Job market data collection tool  
 **Stack:** Python, PostgreSQL  
-- Data scraping
+- hh.ru parsing
 - Database storage
-- CSV / JSON export
+- Data export
 
 ---
 
 ## 📌 Development principles
 - Clean and maintainable code
-- Test-driven approach
+- Explicit business logic
+- Test-oriented approach
 - Clear documentation
-- Automation over manual work
-- Production-oriented mindset
+- Production mindset
 
 ---
 
 ## 📫 Contact
+- GitHub: https://github.com/ScherbAlex
 - Telegram: **@username**
 - Email: **your@email.com**
