@@ -22,7 +22,7 @@
 
 Основные направления:
 - Backend-сервисы и REST API
-- Финансовая и бизнес-логика
+- Бизнес- и финансовая логика
 - Обработка и аналитика данных
 - Тестирование и чистая архитектура
 - CI/CD и воспроизводимые окружения
@@ -54,77 +54,92 @@
 
 ## ⭐ Проекты
 
-### 🎓 OnlineLearning
-Платформа онлайн-обучения  
-**Стек:** Django, DRF, PostgreSQL  
-- Пользователи, курсы, уроки
-- REST API
-- Роли и права доступа
+### 🌱 AtomicHabits API
+Backend-сервис трекинга привычек с фоновой обработкой задач и Telegram-уведомлениями.  
+**Стек:** Django, DRF, Celery, Redis, PostgreSQL  
+**Демонстрирует:**
+- REST API с бизнес-валидацией
+- JWT-авторизацию
+- фоновые задачи и планирование
+- интеграцию со сторонними сервисами
+- автотесты и CI/CD
 
 ---
 
-### 🌱 AtomicHabits API
-Backend-сервис трекинга привычек  
-**Стек:** Django, DRF, Celery, Redis  
-- Управление привычками
-- Фоновые задачи
-- Уведомления
-- Token-авторизация
+### 🎓 OnlineLearning
+Backend-платформа онлайн-обучения с ролями и платежами.  
+**Стек:** Django, DRF, PostgreSQL  
+**Демонстрирует:**
+- кастомную модель пользователя
+- курсы и вложенные уроки
+- role-based access control (RBAC)
+- историю платежей
+- production-подход к API
 
 ---
 
 ### ✉️ Message_AutoSend
-Система управления email-рассылками  
+Система управления email-рассылками и кампаниями.  
 **Стек:** Django, PostgreSQL, Redis  
-- Получатели и сообщения
-- Планирование рассылок
-- Отчёты и логирование
-- Production-настройки
+**Демонстрирует:**
+- работу с бизнес-сущностями (кампании, получатели)
+- планирование отправок
+- логирование и отчёты
+- серверное кеширование
+- production-настройки
 
 ---
 
-### 🛒 ECommerceProject
-Backend интернет-магазина  
-**Стек:** Django, PostgreSQL  
-- Каталог товаров и категорий
-- Валидация данных
-- Админ-панель
+### 🛒 OnlineStore
+Классический full-stack Django-проект интернет-магазина.  
+**Стек:** Django, HTML, CSS, Bootstrap  
+**Демонстрирует:**
+- e-commerce доменную модель (Product / Category)
+- серверный рендеринг шаблонов
+- работу со static-файлами без SPA
+- базовую frontend-интеграцию
 
 ---
 
 ### 🏦 ProjectBank
-Аналитика банковских операций  
+Инструмент аналитики банковских операций.  
 **Стек:** Python, Pandas  
-- Агрегация транзакций
-- Финансовые отчёты
-- Чистая бизнес-логика
+**Демонстрирует:**
+- агрегацию транзакций
+- финансовые отчёты
+- чистую бизнес-логику
+- обработку временных рядов
 
 ---
 
 ### 🏦 MyBank
-Модуль обработки финансовых данных  
+Модуль обработки финансовых данных.  
 **Стек:** Python, Pandas  
-- Импорт CSV / JSON / XLSX
-- Конвертация валют
-- Агрегированные отчёты
-- Unit-тесты
+**Демонстрирует:**
+- импорт CSV / JSON / XLSX
+- конвертацию валют
+- агрегированные отчёты
+- unit-тестирование бизнес-логики
 
 ---
 
 ### 📊 HH_Vacancies
-Аналитика вакансий hh.ru  
+Аналитика вакансий hh.ru.  
 **Стек:** Python, Pandas  
-- Обработка данных вакансий
-- Фильтрация и аналитика рынка
+**Демонстрирует:**
+- фильтрацию и анализ вакансий
+- обработку рыночных данных
+- подготовку данных для отчётов
 
 ---
 
 ### 📈 HH_Data
-Сбор и хранение данных рынка вакансий  
+Сервис сбора и хранения данных рынка вакансий.  
 **Стек:** Python, PostgreSQL  
-- Парсинг hh.ru
-- Хранение в БД
-- Экспорт CSV / JSON
+**Демонстрирует:**
+- парсинг внешних источников
+- хранение данных в БД
+- экспорт CSV / JSON
 
 ---
 
@@ -190,76 +205,51 @@ Main focus areas:
 
 ## ⭐ Featured projects
 
-### 🎓 OnlineLearning
-Online education platform  
-**Stack:** Django, DRF, PostgreSQL  
-- Users, courses, lessons
-- REST API
-- Role-based access
+### 🌱 AtomicHabits API
+Habit tracking backend service with background tasks and Telegram notifications.  
+**Stack:** Django, DRF, Celery, Redis, PostgreSQL
 
 ---
 
-### 🌱 AtomicHabits API
-Habit tracking backend service  
-**Stack:** Django, DRF, Celery, Redis  
-- Habit management
-- Background tasks
-- Notifications
-- Token authentication
+### 🎓 OnlineLearning
+Online education backend platform with RBAC and payments.  
+**Stack:** Django, DRF, PostgreSQL
 
 ---
 
 ### ✉️ Message_AutoSend
-Email campaign management system  
-**Stack:** Django, PostgreSQL, Redis  
-- Recipients & messages
-- Scheduled mailings
-- Reports & logging
+Email campaign management system.  
+**Stack:** Django, PostgreSQL, Redis
 
 ---
 
-### 🛒 ECommerceProject
-E-commerce backend system  
-**Stack:** Django, PostgreSQL  
-- Products & categories
-- Data validation
-- Admin panel
+### 🛒 OnlineStore
+Classic server-rendered e-commerce project.  
+**Stack:** Django, HTML, CSS, Bootstrap
 
 ---
 
 ### 🏦 ProjectBank
-Bank transactions analytics tool  
-**Stack:** Python, Pandas  
-- Transaction aggregation
-- Financial reports
-- Clean business logic
+Bank transaction analytics tool.  
+**Stack:** Python, Pandas
 
 ---
 
 ### 🏦 MyBank
-Financial data processing module  
-**Stack:** Python, Pandas  
-- CSV / JSON / XLSX import
-- Currency conversion
-- Aggregated reports
-- Unit tests
+Financial data processing module.  
+**Stack:** Python, Pandas
 
 ---
 
 ### 📊 HH_Vacancies
-Vacancy analytics service (hh.ru)  
-**Stack:** Python, Pandas  
-- Vacancy data processing
-- Market analytics
+Vacancy analytics service (hh.ru).  
+**Stack:** Python, Pandas
 
 ---
 
 ### 📈 HH_Data
-Job market data collection tool  
-**Stack:** Python, PostgreSQL  
-- hh.ru parsing
-- Database storage
-- Data export
+Job market data collection service.  
+**Stack:** Python, PostgreSQL
 
 ---
 
