@@ -3,6 +3,11 @@
   <a href="#en">🇬🇧 English</a>
 </p>
 
+<p align="right">
+  <a href="#ru">🇷🇺 Русский</a> |
+  <a href="#en">🇬🇧 English</a>
+</p>
+
 <a id="ru"></a>
 
 # ScherbAlex — витрина проектов 🚀
@@ -11,8 +16,10 @@
 Проекты демонстрируют **архитектуру, чистый код, тестирование и production-подход**.
 
 ![Portfolio](https://img.shields.io/badge/Type-Project_Showcase-blueviolet)
+![Backend](https://img.shields.io/badge/Focus-Backend%20%7C%20Full--stack-0a66c2)
 ![Python](https://img.shields.io/badge/Python-Django-blue)
 ![Data](https://img.shields.io/badge/Data-ETL%20%7C%20Pandas-teal)
+![API](https://img.shields.io/badge/API-REST-red)
 ![CI](https://img.shields.io/badge/CI-GitHub_Actions-black)
 
 ---
@@ -54,6 +61,19 @@
 
 ## ⭐ Проекты
 
+### 🏥 MediscanClinic
+Медицинская платформа управления диагностическим центром.  
+**Стек:** Django, DRF, PostgreSQL, Redis, Celery, Docker  
+**Демонстрирует:**
+- модульную архитектуру Django-проекта
+- управление пациентами, врачами и услугами
+- систему записи на приём
+- асинхронные уведомления
+- API и административную панель
+- production-подход к backend-разработке
+
+---
+
 ### 🌱 AtomicHabits API
 Backend-сервис трекинга привычек с фоновой обработкой задач и Telegram-уведомлениями.  
 **Стек:** Django, DRF, Celery, Redis, PostgreSQL  
@@ -79,7 +99,7 @@ Backend-платформа онлайн-обучения с ролями и пл
 ---
 
 ### ✉️ Message_AutoSend
-Система управления email-рассылками и компаниями.  
+Система управления email-рассылками и кампаниями.  
 **Стек:** Django, PostgreSQL, Redis  
 **Демонстрирует:**
 - работу с бизнес-сущностями (кампании, получатели)
@@ -166,6 +186,13 @@ Backend-платформа онлайн-обучения с ролями и пл
 This repository contains **production-ready showcase projects** selected from my working repositories.  
 Each project demonstrates **architecture, clean code, testing, and production practices**.
 
+![Portfolio](https://img.shields.io/badge/Type-Project_Showcase-blueviolet)
+![Backend](https://img.shields.io/badge/Focus-Backend%20%7C%20Full--stack-0a66c2)
+![Python](https://img.shields.io/badge/Python-Django-blue)
+![Data](https://img.shields.io/badge/Data-ETL%20%7C%20Pandas-teal)
+![API](https://img.shields.io/badge/API-REST-red)
+![CI](https://img.shields.io/badge/CI-GitHub_Actions-black)
+
 ---
 
 ## 🧠 About me
@@ -205,51 +232,105 @@ Main focus areas:
 
 ## ⭐ Featured projects
 
+### 🏥 MediscanClinic
+Medical diagnostics management platform.  
+**Stack:** Django, DRF, PostgreSQL, Redis, Celery, Docker  
+**Demonstrates:**
+- modular Django architecture
+- patient, doctor and service management
+- appointment scheduling
+- asynchronous notifications
+- API integration with admin panel
+- production-ready backend design
+
+---
+
 ### 🌱 AtomicHabits API
 Habit tracking backend service with background tasks and Telegram notifications.  
-**Stack:** Django, DRF, Celery, Redis, PostgreSQL
+**Stack:** Django, DRF, Celery, Redis, PostgreSQL  
+**Demonstrates:**
+- REST API with business validation
+- JWT authentication
+- background tasks and scheduling
+- third-party service integration
+- automated tests and CI/CD
 
 ---
 
 ### 🎓 OnlineLearning
 Online education backend platform with RBAC and payments.  
-**Stack:** Django, DRF, PostgreSQL
+**Stack:** Django, DRF, PostgreSQL  
+**Demonstrates:**
+- custom user model
+- courses and nested lessons
+- role-based access control
+- payments history
+- production-oriented API design
 
 ---
 
 ### ✉️ Message_AutoSend
 Email campaign management system.  
-**Stack:** Django, PostgreSQL, Redis
+**Stack:** Django, PostgreSQL, Redis  
+**Demonstrates:**
+- business entities handling (campaigns, recipients)
+- scheduled mailings
+- logging and reports
+- server-side caching
+- production settings
 
 ---
 
 ### 🛒 OnlineStore
 Classic server-rendered e-commerce project.  
-**Stack:** Django, HTML, CSS, Bootstrap
+**Stack:** Django, HTML, CSS, Bootstrap  
+**Demonstrates:**
+- e-commerce domain model (Product / Category)
+- server-side template rendering
+- static assets handling without SPA
+- basic frontend integration
 
 ---
 
 ### 🏦 ProjectBank
 Bank transaction analytics tool.  
-**Stack:** Python, Pandas
+**Stack:** Python, Pandas  
+**Demonstrates:**
+- transaction aggregation
+- financial reporting
+- clean business logic
+- time-series processing
 
 ---
 
 ### 🏦 MyBank
 Financial data processing module.  
-**Stack:** Python, Pandas
+**Stack:** Python, Pandas  
+**Demonstrates:**
+- CSV / JSON / XLSX import
+- currency conversion
+- aggregated reports
+- business logic unit testing
 
 ---
 
 ### 📊 HH_Vacancies
 Vacancy analytics service (hh.ru).  
-**Stack:** Python, Pandas
+**Stack:** Python, Pandas  
+**Demonstrates:**
+- vacancy filtering and analysis
+- job market data processing
+- reporting-oriented datasets
 
 ---
 
 ### 📈 HH_Data
 Job market data collection service.  
-**Stack:** Python, PostgreSQL
+**Stack:** Python, PostgreSQL  
+**Demonstrates:**
+- external data parsing
+- database storage
+- CSV / JSON export
 
 ---
 
@@ -262,6 +343,10 @@ Job market data collection service.
 
 ---
 
+## 📫 Contact
+- GitHub: https://github.com/ScherbAlex
+- Telegram: **@Alex_181173**
+- Email: **alexshcherbyna1173@gmail.com**
 ## 📫 Contact
 - GitHub: https://github.com/ScherbAlex
 - Telegram: **@Alex_181173**
