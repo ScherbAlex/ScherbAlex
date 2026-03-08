@@ -13,10 +13,14 @@
 ![Portfolio](https://img.shields.io/badge/Type-Project_Showcase-blueviolet)
 ![Backend](https://img.shields.io/badge/Focus-Backend%20%7C%20Full--stack-0a66c2)
 ![Python](https://img.shields.io/badge/Python-Django-blue)
+![DRF](https://img.shields.io/badge/API-Django_REST_Framework-red)
+![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-336791)
+![Redis](https://img.shields.io/badge/Cache-Redis-dc382d)
+![Celery](https://img.shields.io/badge/Async-Celery-37814A)
+![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED)
 ![Data](https://img.shields.io/badge/Data-ETL%20%7C%20Pandas-teal)
 ![API](https://img.shields.io/badge/API-REST-red)
 ![CI](https://img.shields.io/badge/CI-GitHub_Actions-black)
-
 ---
 
 ## 🧠 Обо мне
