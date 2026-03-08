@@ -10,8 +10,6 @@
 Этот репозиторий содержит **чистовые (showcase) проекты**, отобранные из рабочих репозиториев.  
 Проекты демонстрируют **архитектуру, чистый код, тестирование и production-подход**.
 
-[![CI](https://github.com/AlexShcherb1173/MediscanClinic/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/AlexShcherb1173/MediscanClinic/actions/workflows/ci.yml)
-
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![Django](https://img.shields.io/badge/Django-5.x-green)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
