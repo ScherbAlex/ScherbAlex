@@ -10,17 +10,31 @@
 Этот репозиторий содержит **чистовые (showcase) проекты**, отобранные из рабочих репозиториев.  
 Проекты демонстрируют **архитектуру, чистый код, тестирование и production-подход**.
 
-![Portfolio](https://img.shields.io/badge/Type-Project_Showcase-blueviolet)
-![Backend](https://img.shields.io/badge/Focus-Backend%20%7C%20Full--stack-0a66c2)
-![Python](https://img.shields.io/badge/Python-Django-blue)
-![DRF](https://img.shields.io/badge/API-Django_REST_Framework-red)
-![PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-336791)
-![Redis](https://img.shields.io/badge/Cache-Redis-dc382d)
-![Celery](https://img.shields.io/badge/Async-Celery-37814A)
-![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED)
-![Data](https://img.shields.io/badge/Data-ETL%20%7C%20Pandas-teal)
-![API](https://img.shields.io/badge/API-REST-red)
-![CI](https://img.shields.io/badge/CI-GitHub_Actions-black)
+[![CI](https://github.com/AlexShcherb1173/MediscanClinic/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/AlexShcherb1173/MediscanClinic/actions/workflows/ci.yml)
+
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Django](https://img.shields.io/badge/Django-5.x-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
+![Redis](https://img.shields.io/badge/Redis-7-red)
+![Celery](https://img.shields.io/badge/Celery-Tasks-green)
+
+![Docker](https://img.shields.io/badge/Docker-Compose-blue)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-brightgreen)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-WSGI-green)
+
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black)
+![Deploy](https://img.shields.io/badge/Deploy-Docker-blue)
+
+![Frontend](https://img.shields.io/badge/Frontend-CSS%20%7C%20JS%20%7C%20Tailwind%20%7C%20HTMX-purple)
+
+![Code Style](https://img.shields.io/badge/Code%20Style-Black-black)
+![Lint](https://img.shields.io/badge/Lint-Flake8-yellow)
+![Typing](https://img.shields.io/badge/Typing-mypy-blue)
+
+![Coverage](https://img.shields.io/badge/Coverage-75%25-brightgreen)
+![Architecture](https://img.shields.io/badge/Architecture-Django%20Modular-blue)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 ---
 
 ## 🧠 Обо мне
