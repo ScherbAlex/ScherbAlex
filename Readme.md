@@ -39,14 +39,6 @@
 **Alex Shcherbyna — Backend / Full-stack разработчик**
 
 <p align="center">
-
-🧠 **Core stack**
-
-Python • Django • DRF • PostgreSQL • Redis • Celery • Docker • Pandas
-
-</p>
-
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker&perline=8" />
 </p>
 
