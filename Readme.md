@@ -38,7 +38,22 @@
 ## 🧠 Обо мне
 **Alex Shcherbyna — Backend / Full-stack разработчик**
 
+<p align="center">
+
+🧠 **Core stack**
+
 Python • Django • DRF • PostgreSQL • Redis • Celery • Docker • Pandas
+
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker&perline=8" />
+</p>
+
+<p align="center">
+Python • Django • PostgreSQL • Redis • Celery • Docker
+</p>
+
 
 Разрабатываю backend-системы и REST API на Python/Django.  
 Основной интерес — **архитектура сервисов, бизнес-логика и production-подход к разработке**.
