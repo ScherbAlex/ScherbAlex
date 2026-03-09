@@ -38,11 +38,11 @@
 ## 🧠 Обо мне
 **Alex Shcherbyna — Backend / Full-stack разработчик**
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker&perline=8" />
 </p>
 
-<p align="center">
+<p align="left">
 Python • Django • PostgreSQL • Redis • Celery • Docker
 </p>
 
