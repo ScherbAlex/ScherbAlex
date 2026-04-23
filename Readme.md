@@ -153,8 +153,10 @@ Backend / Full-Stack разработчик. Создаю production-ready пр�
 
 <a id="en"></a>
 
-Alex Shcherbyna
-Backend / Full-Stack Engineer • Python • Go • Java • React • Microservices
+# Alex Shcherbyna
+
+### Backend / Full-Stack Engineer  
+**Python • Go • Java • React • Microservices**
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Backend+%2F+Full-Stack+Engineer;Python+%7C+Go+%7C+Java+%7C+React;Production-ready+systems;Microservices+%7C+Docker+%7C+CI%2FCD" /> </p>
 
 # About Me
@@ -175,30 +177,28 @@ Backend / Full-Stack engineer building scalable products, backend systems, micro
 
 # 🚀 Core Stack
 
-## Backend
+### Backend
 
-- Python  
-- Django  
-- FastAPI  
-- Go  
-- Java  
-- Spring Boot  
+![Python](https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-5.x-green?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-Modern_API-009688?style=for-the-badge&logo=fastapi)
+![Go](https://img.shields.io/badge/Go-Backend-00ADD8?style=for-the-badge&logo=go)
+![Java](https://img.shields.io/badge/Java-17+-red?style=for-the-badge&logo=openjdk)
+![Spring](https://img.shields.io/badge/Spring_Boot-Production-6DB33F?style=for-the-badge&logo=springboot)
 
-## Frontend
+### Frontend
 
-- React  
-- TypeScript  
-- Tailwind CSS  
-- Vite  
+![React](https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?style=for-the-badge&logo=typescript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-UI-38B2AC?style=for-the-badge&logo=tailwindcss)
 
-## Infrastructure
+### Infra
 
-- PostgreSQL  
-- Redis  
-- Docker  
-- GitHub Actions  
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-Queue-red?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
 ---
+
 
 # 🧠 Engineering Areas
 
