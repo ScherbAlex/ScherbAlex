@@ -14,7 +14,7 @@
 
 <a id="ru"></a>
 
-# 🇷🇺 Обо мне
+# Обо мне
 
 Backend / Full-Stack разработчик. Создаю production-ready приложения, backend сервисы, микросервисы, автоматизацию и современные web / desktop продукты.
 
@@ -151,7 +151,7 @@ Backend / Full-Stack разработчик. Создаю production-ready пр�
 
 <a id="en"></a>
 
-# 🇬🇧 About Me
+# About Me
 
 Backend / Full-Stack engineer building scalable products, backend systems, microservices, automation and modern web / desktop applications.
 
