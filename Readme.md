@@ -5,382 +5,187 @@
 
 <a id="ru"></a>
 
-# ScherbAlex — витрина проектов 🚀
+# Alex Shcherbyna
 
-Этот репозиторий содержит **чистовые (showcase) проекты**, отобранные из рабочих репозиториев.  
-Проекты демонстрируют **архитектуру, чистый код, тестирование и production-подход**.
+### Backend / Full-Stack Engineer • Python • Go • Java • React • Microservices
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Django](https://img.shields.io/badge/Django-5.x-green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
-![Redis](https://img.shields.io/badge/Redis-7-red)
-![Celery](https://img.shields.io/badge/Celery-Tasks-green)
-
-![Docker](https://img.shields.io/badge/Docker-Compose-blue)
-![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-brightgreen)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-WSGI-green)
-
-![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-black)
-![Deploy](https://img.shields.io/badge/Deploy-Docker-blue)
-
-![Frontend](https://img.shields.io/badge/Frontend-CSS%20%7C%20JS%20%7C%20Tailwind%20%7C%20HTMX-purple)
-
-![Code Style](https://img.shields.io/badge/Code%20Style-Black-black)
-![Lint](https://img.shields.io/badge/Lint-Flake8-yellow)
-![Typing](https://img.shields.io/badge/Typing-mypy-blue)
-
-![Coverage](https://img.shields.io/badge/Coverage-75%25-brightgreen)
-![Architecture](https://img.shields.io/badge/Architecture-Django%20Modular-blue)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Backend+%2F+Full-Stack+Engineer;Python+%7C+Go+%7C+Java+%7C+React;Production-ready+systems;Microservices+%7C+Docker+%7C+CI%2FCD" />
+</p>
 
 ---
 
-## 🧠 Обо мне
-**Alex Shcherbyna — Backend / Full-stack разработчик**
+## 🇷🇺 Обо мне
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker&perline=8" />
-</p>
+Backend / Full-Stack разработчик. Создаю production-ready приложения, backend сервисы, микросервисы, автоматизацию и современные web / desktop продукты.
 
-<p align="left">
-Python • Django • PostgreSQL • Redis • Celery • Docker
-</p>
+### Основной фокус:
 
-
-Разрабатываю backend-системы и REST API на Python/Django.  
-Основной интерес — **архитектура сервисов, бизнес-логика и production-подход к разработке**.
-
-Основные направления:
-
-- Backend-сервисы и REST API
-- Архитектура Django-приложений
-- Асинхронная обработка задач (Celery)
-- Интеграции и уведомления
-- Обработка и аналитика данных
-- Тестирование и чистая архитектура
-- CI/CD и воспроизводимые окружения
+- Backend архитектура  
+- REST API / WebSocket / SSE  
+- Очереди задач / фоновые процессы  
+- Микросервисы  
+- Dashboard интерфейсы  
+- DevOps / CI/CD  
+- Чистая архитектура  
 
 ---
 
-## 🛠️ Технологии
+## 🚀 Основной стек
 
 ### Backend
-- Python
-- Django
-- Django REST Framework
-- Celery
-- Redis
-- REST API
-- JWT / Token authentication
 
-### Databases & Data
-- PostgreSQL
-- Pandas
-- CSV / JSON / XLSX
-- ETL и обработка данных
+![Python](https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-5.x-green?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-Modern_API-009688?style=for-the-badge&logo=fastapi)
+![Go](https://img.shields.io/badge/Go-Backend-00ADD8?style=for-the-badge&logo=go)
+![Java](https://img.shields.io/badge/Java-17+-red?style=for-the-badge&logo=openjdk)
+![Spring](https://img.shields.io/badge/Spring_Boot-Production-6DB33F?style=for-the-badge&logo=springboot)
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Django Templates
 
-### DevOps
-- Docker / Docker Compose
-- GitHub Actions (CI/CD)
-- Environment configuration (.env)
----
+![React](https://img.shields.io/badge/React-Vite-61DAFB?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strict-blue?style=for-the-badge&logo=typescript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-UI-38B2AC?style=for-the-badge&logo=tailwindcss)
 
-## ⭐ Проекты
+### Infra
 
-### 🏥 MediscanClinic
-Медицинская платформа управления диагностическим центром.  
-**Стек:** Django, DRF, PostgreSQL, Redis, Celery, Docker  
-**Демонстрирует:**
-- модульную архитектуру Django-проекта
-- управление пациентами, врачами и услугами
-- систему записи на приём
-- асинхронные уведомления
-- API и административную панель
-- production-подход к backend-разработке
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-blue?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-Queue-red?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI/CD-black?style=for-the-badge&logo=githubactions)
 
 ---
 
-### 🌱 AtomicHabits API
-Backend-сервис трекинга привычек с фоновой обработкой задач и Telegram-уведомлениями.  
-**Стек:** Django, DRF, Celery, Redis, PostgreSQL  
-**Демонстрирует:**
-- REST API с бизнес-валидацией
-- JWT-авторизацию
-- фоновые задачи и планирование
-- интеграцию со сторонними сервисами
-- автотесты и CI/CD
+## 🧠 Направления разработки
 
----
+```text
+✔ Backend Architecture
+✔ REST API / Auth / Security
+✔ Celery / Workers / Async jobs
+✔ API Gateway / Reverse Proxy
+✔ Microservices
+✔ Monitoring / Logs / Metrics
+✔ React Dashboards
+✔ Desktop Apps (Tauri)
+✔ Production Deployments
+```
+## Избранные проекты
+### ** VATranscribe**
+#### *Платформа транскрибации аудио и видео.*
+### Stack: FastAPI • React • TypeScript • Redis • Workers • Tauri
+* загрузка файлов
+* очередь задач
+* dashboard прогресса
+* web + desktop версия
 
-### 🎓 OnlineLearning
-Backend-платформа онлайн-обучения с ролями и платежами.  
-**Стек:** Django, DRF, PostgreSQL  
-**Демонстрирует:**
-- кастомную модель пользователя
-- курсы и вложенные уроки
-- role-based access control (RBAC)
-- историю платежей
-- production-подход к API
+### **MediscanClinic**
+#### *Медицинская production платформа.*
+### Stack: Django • Celery • Redis • PostgreSQL • Docker
+* запись на прием
+* напоминания
+* Telegram / Email уведомления
+* admin panel
+* 
+###API Gateway (Go)
+#### **Высокопроизводительный reverse proxy.**
+###Stack: Go • net/http • httputil • rate limit
 
----
-
-### ✉️ Message_AutoSend
-Система управления email-рассылками и кампаниями.  
-**Стек:** Django, PostgreSQL, Redis  
-**Демонстрирует:**
-- работу с бизнес-сущностями (кампании, получатели)
-- планирование отправок
-- логирование и отчёты
-- серверное кеширование
-- production-настройки
-
----
-
-### 🛒 OnlineStore
-Классический full-stack Django-проект интернет-магазина.  
-**Стек:** Django, HTML, CSS, Bootstrap  
-**Демонстрирует:**
-- e-commerce доменную модель (Product / Category)
-- серверный рендеринг шаблонов
-- работу со static-файлами без SPA
-- базовую frontend-интеграцию
-
----
-
-### 🏦 ProjectBank
-Инструмент аналитики банковских операций.  
-**Стек:** Python, Pandas  
-**Демонстрирует:**
-- агрегацию транзакций
-- финансовые отчёты
-- чистую бизнес-логику
-- обработку временных рядов
-
----
-
-### 🏦 MyBank
-Модуль обработки финансовых данных.  
-**Стек:** Python, Pandas  
-**Демонстрирует:**
-- импорт CSV / JSON / XLSX
-- конвертацию валют
-- агрегированные отчёты
-- unit-тестирование бизнес-логики
-
----
-
-### 📊 HH_Vacancies
-Аналитика вакансий hh.ru.  
-**Стек:** Python, Pandas  
-**Демонстрирует:**
-- фильтрацию и анализ вакансий
-- обработку рыночных данных
-- подготовку данных для отчётов
-
----
-
-### 📈 HH_Data
-Сервис сбора и хранения данных рынка вакансий.  
-**Стек:** Python, PostgreSQL  
-**Демонстрирует:**
-- парсинг внешних источников
-- хранение данных в БД
-- экспорт CSV / JSON
-
----
-
-## 📌 Принципы разработки
-- Читаемый и поддерживаемый код
-- Явная бизнес-логика
-- Тестируемость
-- Документация и примеры
-- Production-подход
-
----
-
-## 📫 Контакты
-- GitHub: https://github.com/ScherbAlex
-- Telegram: **@Alex_181173**
-- Email: **alexshcherbyna1173@gmail.com**
-
----
+* middleware chain
+* маршрутизация
+* логирование
+* метрики
+  
+### Marketplace Platform
+#### Маркетплейс full-stack.
+### Stack: Spring Boot • React • PostgreSQL
+* auth
+* объявления
+* комментарии
+* загрузка изображений
+* 
+📊 GitHub Stats
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexShcherb1173&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexShcherb1173&layout=compact&theme=tokyonight&hide_border=true" /> </p>
+🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AlexShcherb1173&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
+📫 Контакты
+Telegram: @Alex_181173
+Email: lenovo2015549@gmail.com
 
 <a id="en"></a>
 
-# ScherbAlex — Project Showcase 🚀
+Alex Shcherbyna
+Backend / Full-Stack Engineer • Python • Go • Java • React • Microservices
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Backend+%2F+Full-Stack+Engineer;Python+%7C+Go+%7C+Java+%7C+React;Production-ready+systems;Microservices+%7C+Docker+%7C+CI%2FCD" /> </p>
+🇬🇧 About Me
 
-This repository contains **production-ready showcase projects** selected from my working repositories.  
-Each project demonstrates **architecture, clean code, testing, and production practices**.
+Backend / Full-Stack engineer building scalable products, backend systems, microservices, automation and modern web / desktop applications.
 
-![Portfolio](https://img.shields.io/badge/Type-Project_Showcase-blueviolet)
-![Backend](https://img.shields.io/badge/Focus-Backend%20%7C%20Full--stack-0a66c2)
-![Python](https://img.shields.io/badge/Python-Django-blue)
-![Data](https://img.shields.io/badge/Data-ETL%20%7C%20Pandas-teal)
-![API](https://img.shields.io/badge/API-REST-red)
-![CI](https://img.shields.io/badge/CI-GitHub_Actions-black)
+Main Focus:
+Backend Architecture
+REST API / WebSocket / SSE
+Job Queues / Background Workers
+Microservices
+Dashboard Interfaces
+DevOps / CI/CD
+Clean Architecture
+🚀 Core Stack
+Backend
 
----
+Python • Django • FastAPI • Go • Java • Spring Boot
 
-## 🧠 About me
-**Alex Shcherbyna — Backend / Full-stack developer**
+Frontend
 
-Main focus areas:
-- Backend services & REST APIs
-- Business & financial logic
-- Data processing and analytics
-- Clean architecture & testing
-- CI/CD and reproducible environments
+React • TypeScript • Vite • Tailwind CSS
 
----
+Infra
 
-## 🛠️ Technologies
+PostgreSQL • Redis • Docker • GitHub Actions
 
-### Backend
-- Python (Django, DRF, Celery, Redis)
-- REST API, JWT / Token authentication
+🧠 Engineering Areas
+✔ Backend Architecture
+✔ REST API / Auth / Security
+✔ Celery / Workers / Async Jobs
+✔ API Gateway / Reverse Proxy
+✔ Microservices
+✔ Monitoring / Logs / Metrics
+✔ React Dashboards
+✔ Desktop Apps (Tauri)
+✔ Production Deployments
+⭐ Featured Projects
+VATranscribe
 
-### Data & Databases
-- PostgreSQL
-- Pandas
-- CSV / JSON / XLSX
-- ETL pipelines & parsing
+Audio / video transcription platform.
 
-### Frontend
-- HTML, CSS, JavaScript
-- Bootstrap
+uploads
+background jobs
+progress dashboard
+web + desktop version
+MediscanClinic
 
-### DevOps
-- Docker / Docker Compose
-- GitHub Actions (CI/CD)
-- Environment configuration (.env)
+Production medical platform.
 
----
+appointments
+reminders
+Telegram / Email notifications
+admin panel
+API Gateway (Go)
 
-## ⭐ Featured projects
+High-performance reverse proxy.
 
-### 🏥 MediscanClinic
-Medical diagnostics management platform.  
-**Stack:** Django, DRF, PostgreSQL, Redis, Celery, Docker  
-**Demonstrates:**
-- modular Django architecture
-- patient, doctor and service management
-- appointment scheduling
-- asynchronous notifications
-- API integration with admin panel
-- production-ready backend design
+middleware chain
+routing
+metrics
+logs
+Marketplace Platform
 
----
+Full-stack marketplace platform.
 
-### 🌱 AtomicHabits API
-Habit tracking backend service with background tasks and Telegram notifications.  
-**Stack:** Django, DRF, Celery, Redis, PostgreSQL  
-**Demonstrates:**
-- REST API with business validation
-- JWT authentication
-- background tasks and scheduling
-- third-party service integration
-- automated tests and CI/CD
+auth
+ads
+comments
+media uploads
+📫 Contact
 
----
-
-### 🎓 OnlineLearning
-Online education backend platform with RBAC and payments.  
-**Stack:** Django, DRF, PostgreSQL  
-**Demonstrates:**
-- custom user model
-- courses and nested lessons
-- role-based access control
-- payments history
-- production-oriented API design
-
----
-
-### ✉️ Message_AutoSend
-Email campaign management system.  
-**Stack:** Django, PostgreSQL, Redis  
-**Demonstrates:**
-- business entities handling (campaigns, recipients)
-- scheduled mailings
-- logging and reports
-- server-side caching
-- production settings
-
----
-
-### 🛒 OnlineStore
-Classic server-rendered e-commerce project.  
-**Stack:** Django, HTML, CSS, Bootstrap  
-**Demonstrates:**
-- e-commerce domain model (Product / Category)
-- server-side template rendering
-- static assets handling without SPA
-- basic frontend integration
-
----
-
-### 🏦 ProjectBank
-Bank transaction analytics tool.  
-**Stack:** Python, Pandas  
-**Demonstrates:**
-- transaction aggregation
-- financial reporting
-- clean business logic
-- time-series processing
-
----
-
-### 🏦 MyBank
-Financial data processing module.  
-**Stack:** Python, Pandas  
-**Demonstrates:**
-- CSV / JSON / XLSX import
-- currency conversion
-- aggregated reports
-- business logic unit testing
-
----
-
-### 📊 HH_Vacancies
-Vacancy analytics service (hh.ru).  
-**Stack:** Python, Pandas  
-**Demonstrates:**
-- vacancy filtering and analysis
-- job market data processing
-- reporting-oriented datasets
-
----
-
-### 📈 HH_Data
-Job market data collection service.  
-**Stack:** Python, PostgreSQL  
-**Demonstrates:**
-- external data parsing
-- database storage
-- CSV / JSON export
-
----
-
-## 📌 Development principles
-- Clean and maintainable code
-- Explicit business logic
-- Test-oriented approach
-- Clear documentation
-- Production mindset
-
----
-
-## 📫 Contact
-- GitHub: https://github.com/ScherbAlex
-- Telegram: **@Alex_181173**
-- Email: **alexshcherbyna1173@gmail.com**
-## 📫 Contact
-- GitHub: https://github.com/ScherbAlex
-- Telegram: **@Alex_181173**
-- Email: **alexshcherbyna1173@gmail.com**
+Telegram: @Alex_181173
+Email: lenovo2015549@gmail.com
